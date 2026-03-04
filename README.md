@@ -18,3 +18,9 @@ Methods:
 - Log-ratio based collocation analysis (±5 word window)
 - Quantitative corpus statistics combined with qualitative interpretation
 The study is based on the UN General Assembly Debates corpus (1970–2020).
+
+## Author
+
+Abdelkarim Zirar  
+MA Data and Discourse Studies  
+Technische Universität Darmstadt
